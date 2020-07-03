@@ -1,11 +1,11 @@
 <?php 
 
 	function returnAtSymbol() {
-		echo "<span style ='font:15px Courier New'> @ </span>";
+		echo "<span style ='font:15px Courier New'>@</span>";
 	}
 
 	function returnSpace() {
-		echo "<span style ='font:15px Courier New'> &nbsp </span>";
+		echo "<span style ='font:15px Courier New'>&nbsp</span>";
 	}
 
 	function generateMaze($input=15) {
